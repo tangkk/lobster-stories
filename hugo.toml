@@ -1,0 +1,16 @@
+baseURL = 'https://tangkk.github.io/lobster-stories/'
+languageCode = 'zh-cn'
+title = '龙虾故事文字版'
+defaultContentLanguage = 'zh'
+
+[params]
+  description = '把龙虾故事播客整理成可阅读、可订阅的文字故事。'
+
+[outputs]
+  home = ['HTML', 'RSS']
+  section = ['HTML', 'RSS']
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
