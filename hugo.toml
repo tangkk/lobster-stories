@@ -5,6 +5,7 @@ defaultContentLanguage = 'zh'
 
 [params]
   description = '把龙虾故事播客整理成可阅读、可订阅的文字故事。'
+  cover = 'https://tangkk.github.io/lobster-stories-podcast/cover.jpg'
 
 [outputs]
   home = ['HTML', 'RSS']
