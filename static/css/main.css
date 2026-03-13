@@ -7,5 +7,3 @@ body { margin: 0; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Robot
 .post-list li { display:flex; justify-content:space-between; gap:12px; padding:10px 0; border-bottom:1px dashed #ccc; }
 .date,.meta { color:#888; font-size:.9rem; }
 a { text-decoration:none; } a:hover{ text-decoration:underline; }
-.cover-card { margin: 20px 0 24px; }
-.cover-image { width: 100%; max-width: 360px; border-radius: 14px; display: block; box-shadow: 0 8px 24px rgba(0,0,0,.18); }

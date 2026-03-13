@@ -5,9 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} · {{ .Site.Title }}{{ end }}</title>
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}" />
-  <link rel="icon" href="{{ .Site.Params.cover }}" />
-  <link rel="apple-touch-icon" href="{{ .Site.Params.cover }}" />
-  <meta property="og:image" content="{{ .Site.Params.cover }}" />
+  <link rel="icon" type="image/svg+xml" href="{{ "icon.svg" | relURL }}" />
+  <link rel="apple-touch-icon" href="{{ "icon.svg" | relURL }}" />
   <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }} RSS" href="{{ "index.xml" | relURL }}" />
   <link rel="stylesheet" href="{{ "css/main.css" | relURL }}" />
 </head>
