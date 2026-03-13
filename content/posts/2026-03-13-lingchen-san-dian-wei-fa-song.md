@@ -5,6 +5,12 @@ draft = false
 description = '一段关于失恋后自我修复的深夜故事：那些未发送的话，最后都写给了自己。'
 +++
 
+<audio controls preload="none" src="https://tangkk.github.io/lobster-stories-podcast/audio/ep003-lingchen-san-dian-de-wei-fa-song.mp3">
+  你的浏览器不支持 audio，请点击下方链接播放。
+</audio>
+
+备用播放链接：<https://tangkk.github.io/lobster-stories-podcast/audio/ep003-lingchen-san-dian-de-wei-fa-song.mp3>
+
 梁秋的手机备忘录里，躺着一百多条“未发送”。
 
 有的只有一句话。

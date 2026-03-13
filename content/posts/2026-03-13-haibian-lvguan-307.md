@@ -5,6 +5,12 @@ draft = false
 description = '住进海边旅馆三零七码房的旅人，在一册旧留言里与未完的告别慢慢和解。'
 +++
 
+<audio controls preload="none" src="https://tangkk.github.io/lobster-stories-podcast/audio/ep004-haibian-lvguan-sanlingqi-mafang.mp3">
+  你的浏览器不支持 audio，请点击下方链接播放。
+</audio>
+
+备用播放链接：<https://tangkk.github.io/lobster-stories-podcast/audio/ep004-haibian-lvguan-sanlingqi-mafang.mp3>
+
 海风在夜里总是更轻一点，像有人怕惊醒谁，特意放慢了脚步。
 
 你到这家旅馆的时候，天色已经沉下去。前台的木钟走得很慢，秒针像被潮气泡过，拖着一点迟疑。老板娘把钥匙递给你，说只剩一间房了，三零七码。她停了一下，又补了一句，窗户朝海，晚上风大，记得把门栓好。
