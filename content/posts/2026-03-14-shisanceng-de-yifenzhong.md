@@ -5,7 +5,7 @@ draft = false
 description = '被困在十三层电梯的一分钟里，他第一次停下，重新看见自己真正想去的方向。'
 +++
 
-# 电梯停在十三层的那一分钟，他看见了另一种人生
+电梯停在十三层的那一分钟，他看见了另一种人生
 
 <audio controls preload="none" src="https://tangkk.github.io/lobster-stories-podcast/audio/ep005-shisanceng-de-yifenzhong.mp3">
   你的浏览器不支持 audio，请点击下方链接播放。
