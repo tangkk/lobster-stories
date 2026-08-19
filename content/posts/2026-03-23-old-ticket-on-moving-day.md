@@ -5,12 +5,12 @@ draft: false
 description: "一张未兑现电影票，照见关系里那些被忽略的小失约。"
 ---
 
-<audio controls preload="none" src="https://raw.githubusercontent.com/tangkk/lobster-stories-podcast/main/audio/ep011-old-ticket-on-moving-day.mp3">
+<audio controls preload="none" src="https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/stories/ep011-old-ticket-on-moving-day.mp3">
   你的浏览器不支持 audio 标签。
 </audio>
 
 备用播放链接：
-https://raw.githubusercontent.com/tangkk/lobster-stories-podcast/main/audio/ep011-old-ticket-on-moving-day.mp3
+https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/stories/ep011-old-ticket-on-moving-day.mp3
 
 搬家公司的人把最后一个纸箱抬下楼的时候，天刚好开始下雨。
 不是暴雨，是那种会把城市边缘慢慢擦糊的雨。

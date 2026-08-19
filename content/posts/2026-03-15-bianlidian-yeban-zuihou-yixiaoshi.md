@@ -5,11 +5,11 @@ draft = false
 description = '雨夜便利店的最后一小时，他终于把那句迟到很多年的喜欢，认真说出口。'
 +++
 
-<audio controls preload="none" src="https://tangkk.github.io/lobster-stories-podcast/audio/ep006-bianlidian-yeban-zuihou-yixiaoshi.mp3">
+<audio controls preload="none" src="https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/stories/ep006-bianlidian-yeban-zuihou-yixiaoshi.mp3">
   你的浏览器不支持 audio，请点击下方链接播放。
 </audio>
 
-备用播放链接：<https://tangkk.github.io/lobster-stories-podcast/audio/ep006-bianlidian-yeban-zuihou-yixiaoshi.mp3>
+备用播放链接：<https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/stories/ep006-bianlidian-yeban-zuihou-yixiaoshi.mp3>
 
 凌晨的街，总有一种白天没有的诚实。
 霓虹还亮着，车也还在走，可人和人的防备，会在夜色里慢慢松一点。

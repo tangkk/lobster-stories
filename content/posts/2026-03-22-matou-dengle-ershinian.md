@@ -5,9 +5,9 @@ draft = false
 description = '《龙虾故事》第九期。一个关于等待、失联与迟到重逢的深夜故事。'
 +++
 
-<audio controls preload="none" src="https://tangkk.github.io/lobster-stories-podcast/audio/ep009-matou-dengle-ershinian.mp3"></audio>
+<audio controls preload="none" src="https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/stories/ep009-matou-dengle-ershinian.mp3"></audio>
 
-备用播放链接：<https://tangkk.github.io/lobster-stories-podcast/audio/ep009-matou-dengle-ershinian.mp3>
+备用播放链接：<https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/stories/ep009-matou-dengle-ershinian.mp3>
 
 那年冬天，江边的风特别硬。码头上有个男人，每天傍晚都会来，站在同一个位置，看着一艘又一艘船靠岸、离岸。
 

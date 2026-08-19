@@ -6,10 +6,10 @@ description: "一个在CBD上班的姑娘，每个周五准时坐四十分钟地
 ---
 
 <audio controls>
-  <source src="https://tangkk.github.io/lobster-stories-podcast/audio/ep018-subway-cat-feeder.mp3" type="audio/mpeg">
+  <source src="https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/stories/ep018-subway-cat-feeder.mp3" type="audio/mpeg">
 </audio>
 
-> 备用播放：[点击收听](https://tangkk.github.io/lobster-stories-podcast/audio/ep018-subway-cat-feeder.mp3)
+> 备用播放：[点击收听](https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/stories/ep018-subway-cat-feeder.mp3)
 
 每周五下午六点半，她会准时出现在 CBD 那座玻璃大厦的旋转门前。
 

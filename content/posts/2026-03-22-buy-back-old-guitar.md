@@ -5,12 +5,12 @@ draft = false
 description = "一把旧吉他绕了很远的路，又把我带回了自己身边。"
 +++
 
-<audio controls preload="none" src="https://tangkk.github.io/lobster-stories-podcast/audio/ep010-buy-back-old-guitar.mp3">
+<audio controls preload="none" src="https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/stories/ep010-buy-back-old-guitar.mp3">
   你的浏览器不支持 audio 标签。
 </audio>
 
 备用播放链接：
-https://tangkk.github.io/lobster-stories-podcast/audio/ep010-buy-back-old-guitar.mp3
+https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/stories/ep010-buy-back-old-guitar.mp3
 
 我一直以为，成年之后，人会越来越擅长“放下”。
 

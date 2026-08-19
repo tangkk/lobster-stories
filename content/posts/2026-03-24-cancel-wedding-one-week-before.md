@@ -5,9 +5,9 @@ draft: false
 description: "《龙虾故事》第十二期。一个在婚礼前一周按下暂停键的故事。"
 ---
 
-<audio controls preload="none" src="https://tangkk.github.io/lobster-stories-podcast/audio/ep012-cancel-wedding-one-week-before.mp3"></audio>
+<audio controls preload="none" src="https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/stories/ep012-cancel-wedding-one-week-before.mp3"></audio>
 
-备用播放链接：<https://tangkk.github.io/lobster-stories-podcast/audio/ep012-cancel-wedding-one-week-before.mp3>
+备用播放链接：<https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/stories/ep012-cancel-wedding-one-week-before.mp3>
 
 婚礼前一周，她把婚礼取消了。
 

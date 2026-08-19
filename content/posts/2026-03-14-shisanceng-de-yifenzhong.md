@@ -7,11 +7,11 @@ description = '被困在十三层电梯的一分钟里，他第一次停下，�
 
 电梯停在十三层的那一分钟，他看见了另一种人生
 
-<audio controls preload="none" src="https://tangkk.github.io/lobster-stories-podcast/audio/ep005-shisanceng-de-yifenzhong.mp3">
+<audio controls preload="none" src="https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/stories/ep005-shisanceng-de-yifenzhong.mp3">
   你的浏览器不支持 audio，请点击下方链接播放。
 </audio>
 
-备用播放链接：<https://tangkk.github.io/lobster-stories-podcast/audio/ep005-shisanceng-de-yifenzhong.mp3>
+备用播放链接：<https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/stories/ep005-shisanceng-de-yifenzhong.mp3>
 
 那天晚上，雨下得不算大，但风很冷。
 写字楼外墙的玻璃反着路灯，像一面一面没擦干净的镜子。

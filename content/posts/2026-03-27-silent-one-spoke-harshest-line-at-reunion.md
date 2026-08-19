@@ -5,9 +5,9 @@ draft: false
 description: "同学聚会上的一句话，揭开成年人世界里最隐秘的差距：不是努不努力，而是有没有试错的资格。"
 ---
 
-<audio controls preload="none" src="https://tangkk.github.io/lobster-stories-podcast/audio/ep014-silent-one-spoke-harshest-line-at-reunion.mp3"></audio>
+<audio controls preload="none" src="https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/stories/ep014-silent-one-spoke-harshest-line-at-reunion.mp3"></audio>
 
-备用播放链接：<https://tangkk.github.io/lobster-stories-podcast/audio/ep014-silent-one-spoke-harshest-line-at-reunion.mp3>
+备用播放链接：<https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/stories/ep014-silent-one-spoke-harshest-line-at-reunion.mp3>
 
 你有没有参加过那种同学会：
 人到得很齐，笑得也很大声，手机一举，全场都像成功学海报。

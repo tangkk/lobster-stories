@@ -5,11 +5,11 @@ draft = false
 description = '住进海边旅馆三零七码房的旅人，在一册旧留言里与未完的告别慢慢和解。'
 +++
 
-<audio controls preload="none" src="https://tangkk.github.io/lobster-stories-podcast/audio/ep004-haibian-lvguan-sanlingqi-mafang.mp3">
+<audio controls preload="none" src="https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/stories/ep004-haibian-lvguan-sanlingqi-mafang.mp3">
   你的浏览器不支持 audio，请点击下方链接播放。
 </audio>
 
-备用播放链接：<https://tangkk.github.io/lobster-stories-podcast/audio/ep004-haibian-lvguan-sanlingqi-mafang.mp3>
+备用播放链接：<https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/stories/ep004-haibian-lvguan-sanlingqi-mafang.mp3>
 
 海风在夜里总是更轻一点，像有人怕惊醒谁，特意放慢了脚步。
 

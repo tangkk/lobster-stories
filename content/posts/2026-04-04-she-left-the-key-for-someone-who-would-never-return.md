@@ -5,12 +5,12 @@ draft = false
 description = "一次普通搬家，像一场迟到很久的告别。"
 +++
 
-<audio controls preload="none" src="https://tangkk.github.io/lobster-stories-podcast/audio/ep015-she-left-the-key-for-someone-who-would-never-return.mp3">
+<audio controls preload="none" src="https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/stories/ep015-she-left-the-key-for-someone-who-would-never-return.mp3">
   你的浏览器不支持 audio 标签。
 </audio>
 
 备用播放链接：
-https://tangkk.github.io/lobster-stories-podcast/audio/ep015-she-left-the-key-for-someone-who-would-never-return.mp3
+https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/stories/ep015-she-left-the-key-for-someone-who-would-never-return.mp3
 
 那天她搬家，天气不算坏。
 

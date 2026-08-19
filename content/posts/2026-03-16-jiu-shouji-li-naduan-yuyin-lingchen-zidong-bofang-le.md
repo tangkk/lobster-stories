@@ -5,12 +5,12 @@ draft = false
 description = '《龙虾故事》第七期。一部尘封在抽屉里的旧手机，在凌晨自动播放了一段语音。那句“别删，听完”，让一个人重新学会在想念里继续生活。'
 +++
 
-<audio controls preload="metadata" src="https://tangkk.github.io/lobster-stories-podcast/audio/ep007-jiu-shouji-li-naduan-yuyin-lingchen-zidong-bofang-le.mp3">
+<audio controls preload="metadata" src="https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/stories/ep007-jiu-shouji-li-naduan-yuyin-lingchen-zidong-bofang-le.mp3">
   你的浏览器不支持音频播放。
 </audio>
 
 备用播放链接：
-https://tangkk.github.io/lobster-stories-podcast/audio/ep007-jiu-shouji-li-naduan-yuyin-lingchen-zidong-bofang-le.mp3
+https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/stories/ep007-jiu-shouji-li-naduan-yuyin-lingchen-zidong-bofang-le.mp3
 
 那天夜里，我是被一阵很轻的电流声吵醒的。
 

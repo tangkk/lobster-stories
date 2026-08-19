@@ -6,10 +6,10 @@ description: "凌晨一点，她在二手平台刷到一本旧书。封面太熟
 ---
 
 <audio controls>
-  <source src="https://tangkk.github.io/lobster-stories-podcast/audio/ep019-mothers-handwriting-in-old-book.mp3" type="audio/mpeg">
+  <source src="https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/stories/ep019-mothers-handwriting-in-old-book.mp3" type="audio/mpeg">
 </audio>
 
-> 备用播放：[点击收听](https://tangkk.github.io/lobster-stories-podcast/audio/ep019-mothers-handwriting-in-old-book.mp3)
+> 备用播放：[点击收听](https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/stories/ep019-mothers-handwriting-in-old-book.mp3)
 
 她是在凌晨一点十七分刷到那本书的。
 

@@ -6,10 +6,10 @@ description: "一个外卖骑手和城中村小女孩，通过饭盒下的纸条
 ---
 
 <audio controls>
-  <source src="https://tangkk.github.io/lobster-stories-podcast/audio/ep016-letter-in-delivery-box.mp3" type="audio/mpeg">
+  <source src="https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/stories/ep016-letter-in-delivery-box.mp3" type="audio/mpeg">
 </audio>
 
-> 备用播放：[点击收听](https://tangkk.github.io/lobster-stories-podcast/audio/ep016-letter-in-delivery-box.mp3)
+> 备用播放：[点击收听](https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/stories/ep016-letter-in-delivery-box.mp3)
 
 徐伟做了三年外卖骑手，最熟悉的就是城中村那条巷子。
 

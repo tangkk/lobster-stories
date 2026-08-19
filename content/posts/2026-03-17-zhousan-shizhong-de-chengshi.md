@@ -5,12 +5,12 @@ draft = false
 description = '《龙虾故事》第八期。一座每周三会短暂失去重力的城市里，一个人把多年未寄出的信放进风里，也终于把自己从旧日重力里慢慢放下。'
 +++
 
-<audio controls preload="metadata" src="https://tangkk.github.io/lobster-stories-podcast/audio/ep008-zhousan-shizhong-de-chengshi.mp3">
+<audio controls preload="metadata" src="https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/stories/ep008-zhousan-shizhong-de-chengshi.mp3">
   你的浏览器不支持音频播放。
 </audio>
 
 备用播放链接：
-https://tangkk.github.io/lobster-stories-podcast/audio/ep008-zhousan-shizhong-de-chengshi.mp3
+https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/stories/ep008-zhousan-shizhong-de-chengshi.mp3
 
 周三清晨，天还没亮透，整座城就先轻了一点。先是窗台上的灰，慢慢离开表面，像不舍得走，又不得不走。再是厨房里的勺子，轻轻抖了一下，发出很短的一声响。最后是人。人在还没反应过来的时候，脚后跟已经离开地面半寸，身体像被谁温柔地托住。
 

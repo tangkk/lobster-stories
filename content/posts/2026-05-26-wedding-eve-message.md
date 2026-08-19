@@ -7,10 +7,10 @@ description: >
 ---
 
 <audio controls>
-  <source src="https://tangkk.github.io/lobster-stories-podcast/audio/ep021-wedding-eve-message.mp3" type="audio/mpeg">
+  <source src="https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/stories/ep021-wedding-eve-message.mp3" type="audio/mpeg">
 </audio>
 
-备用播放链接：https://tangkk.github.io/lobster-stories-podcast/audio/ep021-wedding-eve-message.mp3
+备用播放链接：https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/stories/ep021-wedding-eve-message.mp3
 
 他是在试完西装回到酒店房间之后，看到那条消息的。
 

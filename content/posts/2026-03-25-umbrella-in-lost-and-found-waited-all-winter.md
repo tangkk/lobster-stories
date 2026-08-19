@@ -5,9 +5,9 @@ draft: false
 description: "《龙虾故事》第十三期。一把深蓝色雨伞，串起一个冬天里的迟到和解。"
 ---
 
-<audio controls preload="none" src="https://tangkk.github.io/lobster-stories-podcast/audio/ep013-umbrella-in-lost-and-found-waited-all-winter.mp3"></audio>
+<audio controls preload="none" src="https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/stories/ep013-umbrella-in-lost-and-found-waited-all-winter.mp3"></audio>
 
-备用播放链接：<https://tangkk.github.io/lobster-stories-podcast/audio/ep013-umbrella-in-lost-and-found-waited-all-winter.mp3>
+备用播放链接：<https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/stories/ep013-umbrella-in-lost-and-found-waited-all-winter.mp3>
 
 那把伞是深蓝色的。
 没有花纹，没有牌子，伞柄有一道浅浅的划痕，像有人用钥匙不小心蹭过。

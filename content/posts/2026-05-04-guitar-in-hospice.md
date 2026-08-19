@@ -6,10 +6,10 @@ description: "一个沉默的中年男人，每周三下午准时出现在安宁
 ---
 
 <audio controls>
-  <source src="https://tangkk.github.io/lobster-stories-podcast/audio/ep017-guitar-in-hospice.mp3" type="audio/mpeg">
+  <source src="https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/stories/ep017-guitar-in-hospice.mp3" type="audio/mpeg">
 </audio>
 
-> 备用播放：[点击收听](https://tangkk.github.io/lobster-stories-podcast/audio/ep017-guitar-in-hospice.mp3)
+> 备用播放：[点击收听](https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/stories/ep017-guitar-in-hospice.mp3)
 
 每周三下午三点，他会准时出现在安宁病房的走廊尽头。
 

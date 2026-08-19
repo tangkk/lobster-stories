@@ -6,11 +6,11 @@ description: "她转学后桌子一直空着。他每天折一只纸鹤放在她
 ---
 
 <audio controls>
-  <source src="https://tangkk.github.io/lobster-stories-podcast/audio/ep020-paper-crane-boy.mp3" type="audio/mpeg">
+  <source src="https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/stories/ep020-paper-crane-boy.mp3" type="audio/mpeg">
   您的浏览器不支持音频播放。
 </audio>
 
-备用播放链接：https://tangkk.github.io/lobster-stories-podcast/audio/ep020-paper-crane-boy.mp3
+备用播放链接：https://pub-e2d65fa7f70240878f2e556592826485.r2.dev/stories/ep020-paper-crane-boy.mp3
 
 ---
 
